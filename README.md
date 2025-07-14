@@ -40,4 +40,4 @@
 
 ### 🌐 Contato
 - 📧 Email: alexandregfc86@gmail.com
-- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/alexandre-guimarães-a0b62230a)
+
